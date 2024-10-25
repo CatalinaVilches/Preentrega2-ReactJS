@@ -1,0 +1,36 @@
+.itemDetail {
+    display: flex;
+    margin: 5%;
+    padding: 10px;
+    border: solid;
+    border-color: #480083;
+}
+
+.itemSpecs {
+    display: flex;
+    flex-direction: column;
+    color: rgb(59, 5, 121);
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.itemCount {
+    display: flex;
+    align-items: flex-end;
+    margin-top: 100px;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+button {
+    background: none;
+    border: none;
+    margin-inline: 10px;
+    color: rgb(51, 2, 107);
+    background-color: #dcf5f8;
+}
+
+.contador{
+    display: flex;
+    gap: 50px;
+}
